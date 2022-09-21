@@ -1,0 +1,24 @@
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse_Clicker.Form1.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse_Clicker.Resources.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse Clicker and Keybord Clicker.vbproj.GenerateResource.Cache
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.exe.config
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.pdb
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse and Keybord Clicker.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse and Keybord Clicker.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse and Keybord Clicker.pdb
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse Clicker and Keybord Clicker.vbprojResolveAssemblyReference.cache
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.exe.config
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.exe
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.pdb
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Debug\Mouse and Keybord Clicker.xml
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse Clicker and Keybord Clicker.vbproj.AssemblyReference.cache
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse Clicker and Keybord Clicker.vbproj.SuggestedBindingRedirects.cache
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse_Clicker.Form1.resources
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse_Clicker.Resources.resources
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse Clicker and Keybord Clicker.vbproj.GenerateResource.cache
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse Clicker and Keybord Clicker.vbproj.CoreCompileInputs.cache
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse and Keybord Clicker.exe
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse and Keybord Clicker.xml
+D:\LEGACY\Krum555.000\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Debug\Mouse and Keybord Clicker.pdb
