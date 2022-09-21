@@ -1,0 +1,10 @@
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Release\Mouse and Keybord Clicker.exe.config
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Release\Mouse and Keybord Clicker.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Release\Mouse and Keybord Clicker.pdb
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\bin\Release\Mouse and Keybord Clicker.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Release\Mouse_Clicker.Form1.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Release\Mouse_Clicker.Resources.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Release\Mouse Clicker and Keybord Clicker.vbproj.GenerateResource.Cache
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Release\Mouse and Keybord Clicker.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Release\Mouse and Keybord Clicker.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Mouse Clicker and Keybord Clicker\Mouse Clicker and Keybord Clicker\obj\Release\Mouse and Keybord Clicker.pdb
