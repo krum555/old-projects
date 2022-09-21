@@ -1,0 +1,11 @@
+C:\Users\Krum555\AppData\Local\Temporary Projects\Save - Load files test\bin\Debug\Save - Load files test.exe.config
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\bin\Debug\Save - Load files test.exe.config
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\bin\Debug\Save - Load files test.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\bin\Debug\Save - Load files test.pdb
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\bin\Debug\Save - Load files test.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\obj\Debug\Save___Load_files_test.Form1.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\obj\Debug\Save___Load_files_test.Resources.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\obj\Debug\Save - Load files test.vbproj.GenerateResource.Cache
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\obj\Debug\Save - Load files test.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\obj\Debug\Save - Load files test.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\Save - Load files test\Save - Load files test\obj\Debug\Save - Load files test.pdb
