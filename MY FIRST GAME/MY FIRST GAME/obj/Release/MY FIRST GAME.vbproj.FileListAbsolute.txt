@@ -1,0 +1,75 @@
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe.config
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.pdb
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.xml
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form1.resources
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form2.resources
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Resources.resources
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.GenerateResource.Cache
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.exe
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.xml
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.pdb
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form3.resources
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form4.resources
+C:\Users\Krum555\Documents\Visual Studio 2012\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form5.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe.config
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.exe
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.xml
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.pdb
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form1.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form2.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form3.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form4.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form5.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Resources.resources
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.GenerateResource.Cache
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.pdb
+D:\FS\12klas\12Б\INFO\Krum\VB\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe.config
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.pdb
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.pdb
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.xml
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form1.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form2.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form3.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form4.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form5.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Resources.resources
+C:\Users\Krum555\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.GenerateResource.Cache
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe.config
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.pdb
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.xml
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbprojResolveAssemblyReference.cache
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form1.resources
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form2.resources
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form3.resources
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form4.resources
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form5.resources
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Resources.resources
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.GenerateResource.Cache
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.CoreCompileInputs.cache
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.exe
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.xml
+C:\Users\Krum555.000\Documents\Visual Studio 2013\Projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.pdb
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe.config
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.exe
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.pdb
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\bin\Release\MY FIRST GAME.xml
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.AssemblyReference.cache
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.SuggestedBindingRedirects.cache
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form1.resources
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form2.resources
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form3.resources
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form4.resources
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Form5.resources
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY_FIRST_GAME.Resources.resources
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.GenerateResource.cache
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.vbproj.CoreCompileInputs.cache
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.exe
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.xml
+D:\LEGACY\Krum555.000\Documents\Old projects\Old VisualStudio projects\MY FIRST GAME\MY FIRST GAME\obj\Release\MY FIRST GAME.pdb
