@@ -1,11 +1,7 @@
 # old-unfinished-projects
 all the old projects that i have done in the past
 
-Note:
-Some of them are so old they don't work and some are unfinished
+Note: two of them are unfinished and one is just a test
 
-History of how i started:
+there are a lot more than tree, but for the sake of simplifying things, aka i am trying to show that i can program, i am going to leave it at tree.
 
-{
-  
-}
